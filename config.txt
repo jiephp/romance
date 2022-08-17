@@ -1,0 +1,33 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxebe121f5d340f462",
+# 公众号appSecret
+"app_secret": "03c5d5b595da7dbb39e237af0852d0c4",
+# 模板消息id
+#"template_id": "pRhlPH7M7xctzU7cklRSxd_Vz0Q6GdFgf8BFkNACfOQ",
+#获取今日运势的key(自己找的开放接口很多收费，找个半天找到个免费的，微信公众号:免费API 回复86可以拿到自己的可以,我的公开应该也没事)
+"constellation_key": "4a11bbcbf089edaf14c2d9bdb80c2ec4",
+"template_id": "uy3ChplDS9BlcGYr_CW_mKLyqrqb8gyhvYXx95pib5U",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oax6p5swRbaPuTO6K9PGQ1CFnHp4"],
+
+# 信息配置
+# 所在省份
+"province": "浙江",
+# 所在城市
+"city": "杭州",
+#"constellation":"射手座",
+"constellation":"双鱼座",
+"fortune":"",
+# 生日1
+#"birthday": "1997-12-02",
+"birthday":"1998-03-04",
+"birthday1": "1997-01-01",
+# 生日2
+"birthday2": "1997-01-02",
+# 生日3
+"birthday3": "1997-01-03",
+# 在一起的日子，格式同上
+"love_date": "2022-01-01"
+}
